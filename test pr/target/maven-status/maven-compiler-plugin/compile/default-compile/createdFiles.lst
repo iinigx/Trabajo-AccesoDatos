@@ -1,0 +1,9 @@
+com\promehub\dataexchange\xml\CatalogoXML.class
+com\promehub\dataexchange\util\InfoFichero.class
+com\promehub\dataexchange\Main.class
+com\promehub\dataexchange\exception\CatalogoException.class
+com\promehub\dataexchange\menu\Menu.class
+com\promehub\dataexchange\model\Catalogo.class
+com\promehub\dataexchange\model\Videojuego.class
+com\promehub\dataexchange\csv\CatalogoCSV.class
+com\promehub\dataexchange\menu\Buscador.class
